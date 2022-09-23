@@ -3920,5 +3920,18 @@
             "reshashf": "9c1bfe0d96dcb6e93d41cfec48da6b32",
             "resource": "Linheadset.png"
         },
+             {
+            "adaptive": false,
+            "author": "mayaBakuma",
+            "climbresource": "UFO_adaptive_climb.png",
+            "condition": "None",
+            "flipresource": "bagNOG_flip.png",
+            "name": "noga's bag",
+            "package": "Cults Of Doom",
+            "reshasha": "215d9898e0ac588cbd463116574803c8",
+            "reshashc": "ed82c66ab75e28de1c97c8f1b76186b6",
+            "reshashf": "215d9898e0ac588cbd463116574803c8",
+            "resource": "bagNOG.png"
+        },
     ]
 }
