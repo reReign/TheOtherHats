@@ -3912,12 +3912,10 @@
             "author": "mayaBakuma",
             "climbresource": "UFO_adaptive_climb.png",
             "condition": "None",
-            "flipresource": "Linheadset_flip.png",
             "name": "Lin headset",
             "package": "Cults Of Doom",
             "reshasha": "9c1bfe0d96dcb6e93d41cfec48da6b32",
             "reshashc": "ed82c66ab75e28de1c97c8f1b76186b6",
-            "reshashf": "9c1bfe0d96dcb6e93d41cfec48da6b32",
             "resource": "Linheadset.png"
         },
     ]
