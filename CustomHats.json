@@ -3898,16 +3898,15 @@
         },
         {
             "adaptive": true,
-            "author": "K3ndo",
+            "author": "mayaBakuma",
             "backresource": "UFO_adaptive_back.png",
             "climbresource": "UFO_adaptive_climb.png",
             "condition": "None",
-            "name": "aaaaaa",
-            "package": "Community Hats",
-            "reshasha": "a68dad7a43eef548970fa65f45ac1a44",
-            "reshashb": "ef6a7e1d750814a928fe73c555cc2d6c",
+            "name": "Bulbul",
+            "package": "Cults Of Doom",
+            "reshasha": "cd092c2fea59d1d5215affb3db573ca9",
             "reshashc": "ed82c66ab75e28de1c97c8f1b76186b6",
-            "resource": "UFO_adaptive.png"
+            "resource": "Bulbul_adaptive.png"
         }
     ]
 }
