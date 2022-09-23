@@ -3908,7 +3908,6 @@
             "resource": "Bulbul_adaptive.png"
         },
         {
-            "adaptive": false,
             "author": "mayaBakuma",
             "climbresource": "UFO_adaptive_climb.png",
             "condition": "None",
@@ -3920,8 +3919,7 @@
             "reshashf": "9c1bfe0d96dcb6e93d41cfec48da6b32",
             "resource": "Linheadset.png"
         },
-             {
-            "adaptive": false,
+        {
             "author": "mayaBakuma",
             "climbresource": "UFO_adaptive_climb.png",
             "condition": "None",
