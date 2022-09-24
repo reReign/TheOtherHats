@@ -3920,5 +3920,17 @@
             "reshashf": "215d9898e0ac588cbd463116574803c8",
             "resource": "bagNOG.png"
         },
+        {
+            "author": "mayaBakuma",
+            "climbresource": "UFO_adaptive_climb.png",
+            "condition": "None",
+            "flipresource": "monomiINU_flip.png",
+            "name": "monomiINU",
+            "package": "Cults Of Doom",
+            "reshasha": "58d2c3c972594a975340a4ae851889d6",
+            "reshashc": "ed82c66ab75e28de1c97c8f1b76186b6",
+            "reshashf": "58d2c3c972594a975340a4ae851889d6",
+            "resource": "monomiINU.png"
+        },
     ]
 }
