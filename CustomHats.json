@@ -3955,5 +3955,16 @@
             "reshashc": "daf6b94ead904f31f570aebcd6e4149b",
             "resource": "Eliran.png"
         },
+        {
+            "adaptive": true,
+            "author": "mayabakuma",
+            "climbresource": "TeddyBearDaniel_Climb.png",
+            "condition": "None",
+            "name": "daniel's teddy",
+            "package": "Cults Of Doom",
+            "reshasha": "cf47b95d7d91cc90ab032ba6c653399f",
+            "reshashc": "fdca173e6163fcd1d4a7b4417e2eb424",
+            "resource": "TeddyBearDaniel_adaptive.png"
+        },
     ]
 }
