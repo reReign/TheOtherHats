@@ -3933,15 +3933,16 @@
             "resource": "monomiINU.png"
         },
         {
-            "author": "Linben",
+            "adaptive": true,
+            "author": "noga",
             "climbresource": "UFO_adaptive_climb.png",
             "condition": "None",
             "flipresource": "maniacnog_flip",
             "name": "maniac nog",
             "package": "Cults Of Doom",
-            "reshasha": "c9224aba71cc23423053fc522cbb4539",
+            "reshasha": "43e1b0de8ec8129d632ce4c9d5eb85e0",
             "reshashc": "ed82c66ab75e28de1c97c8f1b76186b6",
-            "reshashf": "c9224aba71cc23423053fc522cbb4539",
+            "reshashf": "43e1b0de8ec8129d632ce4c9d5eb85e0",
             "resource": "maniacnog.png"
         },
     ]
