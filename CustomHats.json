@@ -3945,5 +3945,18 @@
             "reshashf": "75f17ec6505ef5e40eb2da1b1dd1f516",
             "resource": "maniacnog.png"
         },
+        {
+            "adaptive": true,
+            "author": "noga",
+            "climbresource": "UFO_adaptive_climb.png",
+            "condition": "None",
+            "flipresource": "PaperbagCursed_flip",
+            "name": "Cursed paper bag",
+            "package": "Cults Of Doom",
+            "reshasha": "bd33450b6628b0ffa23af2d327a58327",
+            "reshashc": "ed82c66ab75e28de1c97c8f1b76186b6",
+            "reshashf": "bd33450b6628b0ffa23af2d327a58327",
+            "resource": "PaperbagCursed.png"
+        },
     ]
 }
