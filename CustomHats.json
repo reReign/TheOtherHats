@@ -3966,5 +3966,15 @@
             "reshashc": "fdca173e6163fcd1d4a7b4417e2eb424",
             "resource": "TeddyBearDaniel_adaptive.png"
         },
+        {
+            "author": "mayabakuma",
+            "climbresource": "sett_Climb.png",
+            "condition": "None",
+            "name": "Sett",
+            "package": "Cults Of Doom",
+            "reshasha": "05c131887dfcb2bceafdf16eec0c8dc2",
+            "reshashc": "f545db852849cb2126ab3811a4589abc",
+            "resource": "sett.png"
+        },
     ]
 }
