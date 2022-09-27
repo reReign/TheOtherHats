@@ -3976,5 +3976,17 @@
             "reshashc": "f545db852849cb2126ab3811a4589abc",
             "resource": "sett.png"
         },
+        {
+            "author": "mayabakuma",
+            "climbresource": "Nyancat_climb.png",
+            "condition": "None",
+            "flipresource": "nyancat_flip",
+            "name": "nyan cat",
+            "package": "Cults Of Doom",
+            "reshasha": "0999a3cc8431818a8c46e728fc867729",
+            "reshashc": "b7426f5cef5bee26bb3ab167f23ad440",
+            "reshashf": "0999a3cc8431818a8c46e728fc867729",
+            "resource": "nyancat.png"
+        },
     ]
 }
