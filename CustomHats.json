@@ -3988,5 +3988,63 @@
             "reshashf": "0999a3cc8431818a8c46e728fc867729",
             "resource": "nyancat.png"
         },
+        {
+            "author": "mayabakuma",
+            "climbresource": "DrFate_climb.png",
+            "condition": "None",
+            "flipresource": "DrFate_flip",
+            "name": "DrFate",
+            "package": "Cults Of Doom",
+            "reshasha": "d8308d9bf9d8eddc4da94b334ca49dcf",
+            "reshashc": "62aa078b69d90a46f565d15d8653a5c5",
+            "reshashf": "d8308d9bf9d8eddc4da94b334ca49dcf",
+            "resource": "DrFate.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "goofy_climb.png",
+            "condition": "None",
+            "flipresource": "goofy_flip",
+            "name": "goofy",
+            "package": "Cults Of Doom",
+            "reshasha": "9f57537d9115132e6c36de748cc76ef5",
+            "reshashc": "45ad9501bae6b2de9935c110b12da651",
+            "reshashf": "9f57537d9115132e6c36de748cc76ef5",
+            "resource": "goofy.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "goofy_climb.png",
+            "condition": "None",
+            "flipresource": "goofy_flip",
+            "name": "goofy",
+            "package": "Cults Of Doom",
+            "reshasha": "9f57537d9115132e6c36de748cc76ef5",
+            "reshashc": "45ad9501bae6b2de9935c110b12da651",
+            "reshashf": "9f57537d9115132e6c36de748cc76ef5",
+            "resource": "goofy.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "monokuma_climb.png",
+            "condition": "None",
+            "flipresource": "monokuma_flip",
+            "name": "monokuma",
+            "package": "Cults Of Doom",
+            "reshasha": "7b9e9050f5d7f57c9e7d4a4dac54a187",
+            "reshashc": "5ec6ea15171bd97a91fc2fd0b84c196c",
+            "reshashf": "7b9e9050f5d7f57c9e7d4a4dac54a187",
+            "resource": "monokuma.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "pngclear_climb.png",
+            "condition": "None",
+            "name": "ipad",
+            "package": "Cults Of Doom",
+            "reshasha": "196e1a9d78e28bb5c3e4ff3b63f7a226",
+            "reshashc": "d1b97adab28faa1c9c9b2260b798b35a",
+            "resource": "ipad.png"
+        },
     ]
 }
