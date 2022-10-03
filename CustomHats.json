@@ -3990,30 +3990,6 @@
         },
         {
             "author": "mayabakuma",
-            "climbresource": "DrFate_climb.png",
-            "condition": "None",
-            "flipresource": "DrFate_flip",
-            "name": "DrFate",
-            "package": "Cults Of Doom",
-            "reshasha": "d8308d9bf9d8eddc4da94b334ca49dcf",
-            "reshashc": "62aa078b69d90a46f565d15d8653a5c5",
-            "reshashf": "d8308d9bf9d8eddc4da94b334ca49dcf",
-            "resource": "DrFate.png"
-        },
-        {
-            "author": "mayabakuma",
-            "climbresource": "goofy_climb.png",
-            "condition": "None",
-            "flipresource": "goofy_flip",
-            "name": "goofy",
-            "package": "Cults Of Doom",
-            "reshasha": "9f57537d9115132e6c36de748cc76ef5",
-            "reshashc": "45ad9501bae6b2de9935c110b12da651",
-            "reshashf": "9f57537d9115132e6c36de748cc76ef5",
-            "resource": "goofy.png"
-        },
-        {
-            "author": "mayabakuma",
             "climbresource": "goofy_climb.png",
             "condition": "None",
             "flipresource": "goofy_flip",
