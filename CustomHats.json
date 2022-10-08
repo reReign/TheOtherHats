@@ -4012,16 +4012,6 @@
             "reshashf": "7b9e9050f5d7f57c9e7d4a4dac54a187",
             "resource": "monokuma.png"
         },
-        {   "adaptive": true,
-            "author": "mayabakuma",
-            "climbresource": "pngclear_climb.png",
-            "condition": "None",
-            "name": "ipad",
-            "package": "Cults Of Doom",
-            "reshasha": "196e1a9d78e28bb5c3e4ff3b63f7a226",
-            "reshashc": "d1b97adab28faa1c9c9b2260b798b35a",
-            "resource": "ipad_adaptive.png"
-        },
         {
             "author": "mayabakuma",
             "climbresource": "BirthdayHat_climb.png",
@@ -4041,6 +4031,16 @@
             "reshasha": "515e9adac559c9506c35a79b33452a8e",
             "reshashc": "853575f52b730f397332a5446534ac50",
             "resource": "Viegar.png"
+        },
+        {   "adaptive": true,
+            "author": "mayabakuma",
+            "climbresource": "pngclear_climb.png",
+            "condition": "None",
+            "name": "ipad",
+            "package": "Cults Of Doom",
+            "reshasha": "196e1a9d78e28bb5c3e4ff3b63f7a226",
+            "reshashc": "d1b97adab28faa1c9c9b2260b798b35a",
+            "resource": "ipad_adaptive.png"
         },
     ]
 }
