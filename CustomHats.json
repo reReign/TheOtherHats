@@ -4022,5 +4022,25 @@
             "reshashc": "d1b97adab28faa1c9c9b2260b798b35a",
             "resource": "ipad_adaptive.png"
         },
+        {
+            "author": "mayabakuma",
+            "climbresource": "BirthdayHat_climb.png",
+            "condition": "None",
+            "name": "Birthday Hat",
+            "package": "Cults Of Doom",
+            "reshasha": "76fdb8e9415fed4fe8f16fffad5bd207",
+            "reshashc": "1e57e3b9051b7987e2df050cadc2af44",
+            "resource": "BirthdayHat.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "Viegar_climb.png",
+            "condition": "None",
+            "name": "Viegar",
+            "package": "Cults Of Doom",
+            "reshasha": "515e9adac559c9506c35a79b33452a8e",
+            "reshashc": "853575f52b730f397332a5446534ac50",
+            "resource": "Viegar.png"
+        },
     ]
 }
