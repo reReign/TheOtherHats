@@ -4031,6 +4031,26 @@
             "reshasha": "515e9adac559c9506c35a79b33452a8e",
             "reshashc": "853575f52b730f397332a5446534ac50",
             "resource": "Viegar.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "katarina_climb.png",
+            "condition": "None",
+            "name": "katarina",
+            "package": "Cults Of Doom",
+            "reshasha": "0429839ad29c3bd2b9f9e3f81005229d",
+            "reshashc": "1737b5e32ebb988e61ed68a483e211c1",
+            "resource": "katarina.png"
+        },
+        { 
+           "author": "mayabakuma",
+            "climbresource": "ipad_climb.png",
+            "condition": "None",
+            "name": "ipad kid",
+            "package": "Cults Of Doom",
+            "reshasha": "196e1a9d78e28bb5c3e4ff3b63f7a226",
+            "reshashc": "196e1a9d78e28bb5c3e4ff3b63f7a226",
+            "resource": "ipad_adaptive.png"
         }
     ]
 }
