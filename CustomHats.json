@@ -4052,5 +4052,15 @@
             "reshashc": "196e1a9d78e28bb5c3e4ff3b63f7a226",
             "resource": "ipad.png"
         }
+                { 
+           "author": "mayabakuma",
+            "climbresource": "ipad_climb.png",
+            "condition": "None",
+            "name": "ipad kid",
+            "package": "Cults Of Doom",
+            "reshasha": "196e1a9d78e28bb5c3e4ff3b63f7a226",
+            "reshashc": "196e1a9d78e28bb5c3e4ff3b63f7a226",
+            "resource": "ipad.png"
+        }
     ]
 }
